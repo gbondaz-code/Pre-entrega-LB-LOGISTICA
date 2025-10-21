@@ -283,6 +283,20 @@ input[type=email] {
     
 }
 
+.footer-copy {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.copy {
+    font-size: 20px;
+    font-family: "Bungee", Verdana, Tahoma, sans-serif;
+    margin: 0;
+}
+
 
 /* medias querys */
 
